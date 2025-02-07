@@ -12,16 +12,12 @@ Here’s the updated section with the image reference:
 Welcome to **Crowdcube**, a modern crowdfunding platform designed to help individuals and organizations raise funds for various projects, causes, and creative ideas.  
 
 ## 🌐 Live Website  
-[Live Site URL](https://your-live-site-url.com)  
+[Live Site URL](https://crowdcube-1b085.web.app/)  
 
 ### 📸 Website Screenshot  
 ![Crowdcube Homepage](https://raw.githubusercontent.com/adnanmahmud0/Crowdcube---A-Crowdfunding-Application/refs/heads/main/Screenshot%202025-02-08%20032933.png)  
 
- 
 
----
-
-Would you like me to generate a placeholder image or suggest a specific size for your screenshot? 🚀
 
 ---
 
@@ -170,7 +166,7 @@ Would you like me to generate a placeholder image or suggest a specific size for
 
 ## 🤝 Contributors  
 
-- **[Your Name]** - [GitHub Profile](https://github.com/your-username)  
+- **[Adnan Mahmud]** - [GitHub Profile](https://github.com/adannmahmud0)  
 - Contributions are welcome! Feel free to open an issue or submit a pull request.  
 
 ---
