@@ -1,10 +1,3 @@
-To include an image of your website in the README, you can add a screenshot and reference it like this:  
-
-1. Place the screenshot in the project root or inside a dedicated folder (e.g., `assets/` or `public/`).  
-2. Use Markdown to display the image in the README.  
-
-Here’s the updated section with the image reference:
-
 ---
 
 # **Crowdcube - A Crowdfunding Application 🌟**  
