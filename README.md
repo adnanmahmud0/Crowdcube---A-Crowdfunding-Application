@@ -1,4 +1,9 @@
-Here’s your updated **README.md** with refined formatting, additional details, and an updated dependencies section:
+To include an image of your website in the README, you can add a screenshot and reference it like this:  
+
+1. Place the screenshot in the project root or inside a dedicated folder (e.g., `assets/` or `public/`).  
+2. Use Markdown to display the image in the README.  
+
+Here’s the updated section with the image reference:
 
 ---
 
@@ -8,6 +13,15 @@ Welcome to **Crowdcube**, a modern crowdfunding platform designed to help indivi
 
 ## 🌐 Live Website  
 [Live Site URL](https://your-live-site-url.com)  
+
+### 📸 Website Screenshot  
+![Crowdcube Homepage](./assets/crowdcube-screenshot.png)  
+
+> _Replace `./assets/crowdcube-screenshot.png` with the actual path to your screenshot._  
+
+---
+
+Would you like me to generate a placeholder image or suggest a specific size for your screenshot? 🚀
 
 ---
 
