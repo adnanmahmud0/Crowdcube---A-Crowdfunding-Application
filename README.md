@@ -15,7 +15,7 @@ Welcome to **Crowdcube**, a modern crowdfunding platform designed to help indivi
 [Live Site URL](https://your-live-site-url.com)  
 
 ### 📸 Website Screenshot  
-![Crowdcube Homepage]([./assets/crowdcube-screenshot.png](https://raw.githubusercontent.com/adnanmahmud0/Crowdcube---A-Crowdfunding-Application/refs/heads/main/Screenshot%202025-02-08%20032933.png))  
+![Crowdcube Homepage](https://raw.githubusercontent.com/adnanmahmud0/Crowdcube---A-Crowdfunding-Application/refs/heads/main/Screenshot%202025-02-08%20032933.png)  
 
  
 
