@@ -164,17 +164,3 @@ Welcome to **Crowdcube**, a modern crowdfunding platform designed to help indivi
 
 ---
 
-## 🤝 Contributors  
-
-- **[Adnan Mahmud]** - [GitHub Profile](https://github.com/adannmahmud0)  
-- Contributions are welcome! Feel free to open an issue or submit a pull request.  
-
----
-
-## 📜 License  
-
-This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.  
-
----
-
-This README is now **structured**, **informative**, and **user-friendly**. Let me know if you need any further refinements! 🚀
